@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="174.0" prefWidth="248.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Saver.Wrong">
+   <children>
+      <Label layoutX="20.0" layoutY="27.0" prefHeight="90.0" prefWidth="209.0" text="Load Error" textFill="#e40b0b">
+         <font>
+            <Font size="42.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
